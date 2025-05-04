@@ -15,7 +15,7 @@ Installation Instructions:
 ============================
 
 FOR WINDOWS BASED MACHINES:
-
+===============
 
 0. Download the Mimeograph.zip file from GitHub
 
