@@ -2,12 +2,17 @@ Mimeograph -- YouTube Transcription Software from the Atomic Corporation
 =================================================================
 
 This program is a Python based YouTube transcriber that uses the open-source OpenAI Whisper Speech Recognizer/Transcription module found on GitHub.
+
 When opened, the software prompts the user to paste a YouTube URL, as well as select the file format to transcribe to (either .TXT or .RTF). 
+
 After, it will download a .webm file of that video to it's directory. Once downloaded, it transcribes the video, and outputs the result to the "Output" folder. 
+
 The program then deletes the original .webm download to save space. The file is downloaded contains JUST audio, no video.
 
 The software does NOT directly interact with the YouTube video stream. Because of this, I can not guarantee it will work on your computer, or your internet connection.
+
 If you see an HTTP error (probably 403), it likely means that dependencies need to be updated via the UpdatePackage.sh / UpdateRequirements.exe files.
+
 If it still occurs, I am most likely unable to fix it as it is caused by a direct "wall" put up by YouTube themselves, and varies depending on which machine the program runs on.
 
 
