@@ -11,10 +11,8 @@ If you see an HTTP error (probably 403), it likely means that dependencies need 
 If it still occurs, I am most likely unable to fix it as it is caused by a direct "wall" put up by YouTube themselves, and varies depending on which machine the program runs on.
 
 
-Installation Instructions:
-============================
 
-FOR WINDOWS BASED MACHINES:
+INSTALLATION FOR WINDOWS BASED MACHINES:
 ===============
 
 0. Download the Mimeograph.zip file from GitHub
@@ -32,7 +30,7 @@ FOR WINDOWS BASED MACHINES:
 6. Periodically run "UpdateRequirements.exe" to keep dependencies up to date.
 
 
-FOR LINUX/MAC/UNIX BASED MACHINES:
+INSTALLATION FOR LINUX/MAC/UNIX BASED MACHINES:
 ==================================
 
 0. Download the Mimeograph.zip file from GitHub
@@ -43,7 +41,7 @@ FOR LINUX/MAC/UNIX BASED MACHINES:
 
 3. Open InstallerPackage.sh through the Terminal by running the command "./InstallerPackage.sh" (without quotes) -- this will install the program's dependencies.
 
-3.1. (OR) Run the program through Terminal directly. -- CD to the folder, and type "python3 Mimeogrpah.py" (without quotes)
+3.1. (OR) Run the program through Terminal directly. -- CD to the folder, and type "python3 Mimeograph.py" (without quotes)
 
 4. Open UpdatePackage.sh through the Terminal by running the command "./UpdatePackage.sh" (without quotes) -- this will update dependencies (if there is an update)
 
