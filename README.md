@@ -20,19 +20,13 @@ If it still occurs, I am most likely unable to fix it as it is caused by a direc
 INSTALLATION FOR WINDOWS BASED MACHINES:
 ===============
 
-0. Download the Mimeograph.zip file from GitHub
+0. Download the Mimeograph-win.zip file from GitHub
 
 1. Extract the Mimeograph folder from the downloaded zip file.
 
-2. Install Python3 (Make sure to add it to PATH when installing!), and FFMPEG. - Links will be provided in the Dependencies.txt file.
+2. Run "Mimeograph.exe"
 
-3. Open the "InstallRequirements.exe" file in the folder to install necessary libraries.
-
-4. Open the "UpdateRequirements.exe" file in the folder to make sure all requirements are up to date.
-
-5. Open the "runBot.exe" file in the folder to run the bot.
-
-6. Periodically run "UpdateRequirements.exe" to keep dependencies up to date.
+3. Periodically run "UpdateRequirements.exe" to keep dependencies up to date.
 
 
 INSTALLATION FOR LINUX/MAC/UNIX BASED MACHINES:
