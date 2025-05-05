@@ -1,4 +1,4 @@
-Mimeograph -- YouTube Transcription Software from the Atomic Corporation
+Mimeograph -- YouTube & Audio Transcription Software from Atomic
 =================================================================
 
 This program is a Python based YouTube transcriber that uses the open-source OpenAI Whisper Speech Recognizer/Transcription module found on GitHub, that stemmed from the Atomic Music Bot.
