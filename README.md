@@ -1,7 +1,7 @@
 Mimeograph -- YouTube & Audio Transcription Software from Atomic
 =================================================================
 
-This program is a Python based YouTube transcriber that uses the open-source OpenAI Whisper Speech Recognizer/Transcription module found on GitHub, that stemmed from the Atomic Music Bot.
+This program is a Python based YouTube and audio transcriber that uses the open-source OpenAI Whisper Speech Recognizer/Transcription module found on GitHub, that stemmed from the Atomic Music Bot.
 
 When opened, the software prompts the user to paste a YouTube URL, as well as select the file format to transcribe to (either .TXT or .RTF). 
 
