@@ -24,9 +24,11 @@ INSTALLATION FOR WINDOWS BASED MACHINES:
 
 1. Extract the Mimeograph folder from the downloaded zip file.
 
-2. Run "Mimeograph.exe"
+2. Install program libraries by running InstallRequirements.exe
 
-3. Periodically run "UpdateRequirements.exe" to keep dependencies up to date.
+3. Run "Mimeograph.exe"
+
+4. Periodically run "UpdatePackages.exe" to keep libraries up to date.
 
 
 INSTALLATION FOR LINUX/MAC/UNIX BASED MACHINES:
